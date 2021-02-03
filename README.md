@@ -1,0 +1,2 @@
+# akismet
+ Default wp plugin
